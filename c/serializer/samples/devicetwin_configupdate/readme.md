@@ -219,7 +219,7 @@ You will now be sending temperature and humidity to your IoT Hub every 3000ms.
 # Step 5:  Reboot Device via Direct Methods
 While doing your investigation you have determined that you'd like to reboot the device to refresh its state.  Here's how you can do that.
 
--   Start the device app with root permissions by running below command in SSH session
+-   Start the device app **with root permissions (sudo)** by running below command in SSH session
 -   Notice events coming in Device Explorer -> Data -> Monitor
 
     ```
