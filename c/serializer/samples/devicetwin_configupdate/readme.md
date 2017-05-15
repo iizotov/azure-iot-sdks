@@ -151,7 +151,7 @@ Run the following commands in the SSH Terminal window connected to your Raspberr
 -   Finally, build the sample applications:
 
     ```
-    ./c/build_all/linux/build.sh --skip-unittests
+    sudo ./c/build_all/linux/build.sh --skip-unittests
     ```
 
 <a name="rundevicetwinsample"/></a>
