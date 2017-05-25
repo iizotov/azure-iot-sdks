@@ -77,7 +77,6 @@ You will need the following items ready before beginning this tutorial:
 	    You should consider a Starter Kit such as the [CanaKit](https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY/ref=sxts_k2p_hero2?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2668835642&pf_rd_r=ZNN3EEA1V2FNMVX4M6KH&pd_rd_wg=NKs7X&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pd_rd_w=LjWyi&pf_rd_i=CanaKit+Raspberry+Pi+3&pd_rd_r=K2H6B8XEDVHTE4J35TN1&ie=UTF8&qid=1478205900&sr=2) that
 	    includes some of these hardware requirements.
 -   [Provision][lnk-setup-iot-hub] an Azure IoT Hub. 
-    >Note: Make sure you create an IoT Hub which has Device Management enabled. (Check "Enable Device Management" when you create the IoT Hub)
 -   [Download](https://cdnx.azureedge.net/files/Device%20Explorer.zip) Azure IoT Device Explorer Twin. To monitor IoT Hub messages, manage devices and device twins.
 -   [Provision][lnk-manage-iot-hub] a device with Device Explorer and get its connection string.
 
