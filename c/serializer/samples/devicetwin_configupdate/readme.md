@@ -137,6 +137,7 @@ Run the following commands in the SSH Terminal window connected to your Raspberr
     You can use the console-based text editor **nano** to edit the file 
 
     ```
+    cd azure-iot-sdks
     nano ./c/serializer/samples/devicetwin_configupdate/devicetwin_configupdate.c
     ```
 
